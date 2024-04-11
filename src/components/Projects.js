@@ -31,7 +31,7 @@ export default function Projects() {
               <div className="flex justify-center">
                 <a
                   className="btn"
-                  href="https://github.com/DhinakaranDev/MyReactPortfolio"
+                  href="https://github.com/manojdaniel/baseproject"
                   target="_blank"
                 >
                   View project
@@ -48,7 +48,7 @@ export default function Projects() {
               <div className="flex justify-center">
                 <a
                   className="btn"
-                  href="https://github.com/DhinakaranDev/MyReactPortfolio"
+                  href="https://github.com/manojdaniel/baseproject"
                   target="_blank"
                 >
                   View project
@@ -65,7 +65,7 @@ export default function Projects() {
               <div className="flex justify-center">
                 <a
                   className="btn"
-                  href="https://github.com/DhinakaranDev/MyReactPortfolio"
+                  href="https://github.com/manojdaniel/baseproject"
                   target="_blank"
                 >
                   View project

@@ -12,7 +12,7 @@ export default function Contact() {
           If you want to discuss more in detail, please contact me
         </p>
         <p className="py-2">
-          <spam className="font-bold">Email :</spam>manitdhinakaran@gmail.com
+          <spam className="font-bold">Email :</spam>daniel.md.manoj@gmail.com
         </p>
         <p className="py-2">
           <spam className="font-bold">Phone :</spam>+91909909990
