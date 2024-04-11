@@ -11,7 +11,7 @@ export default function Intro() {
     <section className="flex flex-col md:flex-row px-5 py-32 bg-primary justify-center">
       <div className="md:w-1/2 flex flex-col">
         <h1 className="text-white text-6xl font-intro-font">
-          Hi, <br /> Im Dhina
+          Hi, <br /> Im Manoj daniel
           <p className="text-2xl">Im a Frontend developer</p>
         </h1>
         <div className="flex py-10 ">
