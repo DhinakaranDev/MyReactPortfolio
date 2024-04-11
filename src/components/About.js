@@ -13,7 +13,7 @@ export default function About() {
             About Me
           </h1>
           <p className="pb-5">
-            Hi am Manoj daniel,front-end developer. I built beatiful
+            Hi am Dhinakaran,front-end developer. I built beatiful
             Webstites,Mobile applications with React.js,React native and
             Tailwind CSS
           </p>
